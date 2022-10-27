@@ -1,6 +1,6 @@
 # space_x_last_launch
 
-A new Flutter project.
+This single screen Flutter App, gets "Launches records of the SpaceX" from the API with http request. Than show the last launch in Home Screen by using BloC.
 
 ## Getting Started
 
